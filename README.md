@@ -1,2 +1,2 @@
-# vreauDiagnoza
-Vreau Diagnoza
+npm install
+npm start
